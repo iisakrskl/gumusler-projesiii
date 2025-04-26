@@ -4,49 +4,33 @@
   <meta charset="UTF-8">
   <title>Gümüşler Manastırı Projesi</title>
   <style>
-    body {
+       body {
       font-family: Arial, sans-serif;
       background: #f4f4f4;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background: #444;
-      color: #fff;
       text-align: center;
-      padding: 20px 0;
-    }
-    nav {
-      background: #333;
-      text-align: center;
-    }
-    nav a {
-      color: #fff;
-      padding: 14px 20px;
-      display: inline-block;
-      text-decoration: none;
-    }
-    section {
-      padding: 20px;
-    }
-    footer {
-      background: #333;
-      color: #fff;
-      text-align: center;
-      padding: 10px 0;
     }
     img {
-      width: 100%;
-      max-width: 600px;
-      margin-bottom: 20px;
-    }
-    p.note {
-      font-size: 14px;
-      color: gray;
+      margin: 20px;
+      width: 400px;
+      border: 5px solid #ccc;
+      border-radius: 10px;
     }
   </style>
 </head>
 <body>
+
+  <h1>Gümüşler Manastırı Fotoğrafları</h1>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Gumusler_Monastery.jpg" alt="Gümüşler Manastırı Genel Görünüm">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Gumusler_inside.jpg" alt="Gümüşler Manastırı İç Mekan">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Gumusler_Church.jpg" alt="Gümüşler Manastırı Kilise Alanı">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Gumusler_Rock_Carvings.jpg" alt="Gümüşler Manastırı Kaya Oymaları">
+
+</body>
+</html>
   <header>
     <h1>Gümüşler Manastırı Eğitim Projesi</h1>
   </header>
